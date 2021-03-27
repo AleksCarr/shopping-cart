@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+}
+
+.block{
+    display: flex;
+    font-size: 25px;
+}
+
+.align{
+    padding-top: 10%;
+  font-size: 35px;
+  flex: 1;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: lightseagreen;
+}
+
+.item{
+    margin-left: 30%;
+}
+
+
+.aligns{
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 50%;
+}
+
+input{
+    margin-left: 20%;
+}
+
